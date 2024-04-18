@@ -7,3 +7,6 @@ This is the description of the test.
 
 ##This is the feature branch.
 This is the text in the feature branch.
+
+##This the second feature
+This are the contents.
